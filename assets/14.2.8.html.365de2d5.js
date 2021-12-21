@@ -1,0 +1,8 @@
+import { c as createStaticVNode } from "./app.95e2640d.js";
+const _sfc_main = {};
+const _hoisted_1 = /* @__PURE__ */ createStaticVNode('<h1 id="_14-2-7-14-2-8" tabindex="-1"><a class="header-anchor" href="#_14-2-7-14-2-8" aria-hidden="true">#</a> 14.2.7 - 14.2.8</h1><p>\u66F4\u65B0\u65F6\u95F4\uFF1ATue Dec 21 2021 20:10:59 GMT+0800 (\u4E2D\u56FD\u6807\u51C6\u65F6\u95F4)</p><div class="custom-container tip"><p class="custom-container-title">\u63D0\u793A</p><p>\u672C\u6B21\u66F4\u65B0\u6CA1\u6709\u4FEE\u6539\u73B0\u6709\u529F\u80FD\uFF0C\u6CA1\u6709\u4FEE\u6539 API\u3002</p></div><h2 id="\u6545\u969C\u4FEE\u590D" tabindex="-1"><a class="header-anchor" href="#\u6545\u969C\u4FEE\u590D" aria-hidden="true">#</a> \u6545\u969C\u4FEE\u590D</h2><ul><li>\u4FEE\u590D\u4E86<code>quickDiff</code>\u7684\u4E00\u4E9B\u6545\u969C\uFF1A <ul><li>\u73B0\u5728\uFF0C\u6253\u5F00\u5BF9\u6BD4\u65F6\uFF0C\u201C\u4E0A\u4E00\u7248\u672C/\u4E0B\u4E00\u7248\u672C\u201D\u7684\u6309\u94AE\u4E0D\u4F1A\u518D\u7F13\u6162\u6D88\u5931\uFF08\u611F\u8C22<strong>MysticNebula70@Minecraft wiki</strong>\uFF09</li></ul></li><li>\u4FEE\u590D\u4E86<code>loadQuickDiff</code>\u7684\u4E00\u4E9B\u6545\u969C\uFF1A <ul><li>\u73B0\u5728\uFF0C<code>quickDiff</code>\u4E0D\u4F1A\u518D\u7ED1\u5B9A\u5230\u5386\u53F2\u7248\u672C\u6216\u5176\u4ED6\u4E0D\u662F\u5DEE\u5F02\u6BD4\u8F83\u7684\u8FDE\u63A5\u4E0A\uFF08\u611F\u8C22<strong>LUO1P@\u840C\u5A18\u767E\u79D1\u3001MysticNebula70@Minecraft wiki</strong>\uFF09</li></ul></li></ul>', 5);
+function _sfc_render(_ctx, _cache) {
+  return _hoisted_1;
+}
+_sfc_main.render = _sfc_render;
+export { _sfc_main as default };
